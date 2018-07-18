@@ -1,1 +1,6 @@
-My name is Mafe 
+puts "Hello Cats!"
+puts "Good Night!"
+
+["Sasha", "Malio"]
+
+
